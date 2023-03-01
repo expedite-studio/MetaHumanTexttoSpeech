@@ -1,11 +1,11 @@
 {
 	"assets": [
 		{
-			"path": "MetaHumans/Common/Female/Medium/NormalWeight/Tops/Sweater/f_med_nrw_top_sweater_nrm.uasset",
+			"path": "MetaHumans/Common/Female/Medium/NormalWeight/Tops/Shirt/f_med_nrw_top_shirt_nrm.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Female/Medium/NormalWeight/Bottoms/Jeans/f_med_nrw_btm_jeans_slm.uasset",
+			"path": "MetaHumans/Common/Female/Medium/NormalWeight/Bottoms/Slacks/f_med_nrw_btm_slacks_nrm.uasset",
 			"version": "1.0"
 		},
 		{
@@ -569,11 +569,11 @@
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/OfficeGirl/Materials/Sweater/M_top_sweater.uasset",
+			"path": "MetaHumans/OfficeGirl/Materials/Shirt/Female/M_f_top_shirt.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/OfficeGirl/Materials/Jeans_slm/M_btm_jeans_slm_custom.uasset",
+			"path": "MetaHumans/OfficeGirl/Materials/Slacks/M_btm_slacks.uasset",
 			"version": "1.0"
 		},
 		{
@@ -581,19 +581,67 @@
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/GroomBinding/Hair_L_Straight_f_head_Archetype_Binding.uasset",
+			"path": "MetaHumans/OfficeGirl/FemaleHair/GroomBinding/Hair_S_Updo_f_head_Archetype_Binding.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_L_Straight.uasset",
+			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_S_Updo_CardsMesh_Group0_LOD0.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/OfficeGirl/Materials/MI_Hair.uasset",
+			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_S_Updo_CardsMesh_Group1_LOD0.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_S_Updo_CardsMesh_Group0_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_S_Updo_CardsMesh_Group1_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_S_Updo_CardsMesh_Group0_LOD2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_S_Updo_CardsMesh_Group1_LOD2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_S_Updo_CardsMesh_Group0_LOD3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_S_Updo_CardsMesh_Group1_LOD3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_S_Updo_CardsMesh_Group0_LOD4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/OfficeGirl/FemaleHair/Helmets/Hair_S_Updo_Helmet_LOD5.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/OfficeGirl/FemaleHair/Helmets/Hair_S_Updo_Helmet_LOD6.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/OfficeGirl/FemaleHair/Helmets/Hair_S_Updo_Helmet_LOD7.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_S_Updo.uasset",
 			"version": "1.0"
 		},
 		{
 			"path": "MetaHumans/OfficeGirl/Materials/MI_Hair_Cards.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/OfficeGirl/Materials/MI_Hair.uasset",
 			"version": "1.0"
 		},
 		{
@@ -621,16 +669,20 @@
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/GroomBinding/Eyelashes_L_SlightCurl_f_med_nrw_head_skmesh_lod0_Face_Archetype_Binding.uasset",
+			"path": "MetaHumans/OfficeGirl/FemaleHair/GroomBinding/Eyelashes_L_ThickCurl_f_med_nrw_head_skmesh_lod0_Face_Archetype_Binding.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Eyelashes_L_SlightCurl.uasset",
+			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Eyelashes_L_ThickCurl.uasset",
 			"version": "1.0"
 		},
 		{
 			"path": "MetaHumans/OfficeGirl/Materials/MI_Hair2.uasset",
 			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/OfficeGirl/Materials/HairDefaultMaterial.uasset",
+			"version": "0.0"
 		},
 		{
 			"path": "MetaHumans/OfficeGirl/FemaleHair/GroomBinding/Peachfuzz_M_Thin_f_head_Archetype_Binding.uasset",
@@ -1301,7 +1353,7 @@
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/HighlightsTextures/HighlightMask_medium.uasset",
+			"path": "MetaHumans/Common/Materials/HighlightsTextures/HighlightMask_strips.uasset",
 			"version": "1.0"
 		},
 		{
@@ -1469,7 +1521,7 @@
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/FemaleHair/Textures/Eyelashes_L_SlightCurl_Cards/Eyelashes_L_SlightCurl_Coverage.uasset",
+			"path": "MetaHumans/Common/FemaleHair/Textures/Eyelashes_L_ThickCurl_Cards/Eyelashes_L_ThickCurl_Coverage.uasset",
 			"version": "1.0"
 		},
 		{
@@ -1477,27 +1529,19 @@
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Sweater/M_top_sweater.uasset",
+			"path": "MetaHumans/Common/Materials/Shirt/Female/M_f_top_shirt.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Macros/macro_heather_04.uasset",
+			"path": "MetaHumans/Common/Materials/Shirt/Female/f_top_shirt_Mask.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Sweater/top_sweater_N.uasset",
+			"path": "MetaHumans/Common/Materials/Shirt/Female/f_top_shirt_N.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_knit_front_N.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Sweater/top_sweater_Mask.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/M_fabric_simpler_fuzz_option.uasset",
+			"path": "MetaHumans/Common/Materials/M_fabric_simpler.uasset",
 			"version": "1.0"
 		},
 		{
@@ -1533,10 +1577,6 @@
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Macros/macro_fuzz_4k.uasset",
-			"version": "1.0"
-		},
-		{
 			"path": "MetaHumans/Common/Materials/Textures/Clothing/MaterialFunction/MF_PrintRepeats.uasset",
 			"version": "1.0"
 		},
@@ -1565,10 +1605,6 @@
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Macros/macro_fuzz_Normal.uasset",
-			"version": "1.0"
-		},
-		{
 			"path": "MetaHumans/Common/Materials/Textures/Clothing/Macros/macro_pilling_A.uasset",
 			"version": "1.0"
 		},
@@ -1577,35 +1613,27 @@
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_double_knit_N.uasset",
+			"path": "MetaHumans/Common/Materials/Shirt/Female/f_top_shirt_AO.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_double_knit_height1.uasset",
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_pp_oxford_N.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_knit_front_nosrgb_H.uasset",
+			"path": "MetaHumans/Common/Female/Medium/NormalWeight/Tops/Shirt/f_med_nrw_top_shirt_nrm_Skeleton.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Macros/macro_pilling_A2.uasset",
+			"path": "MetaHumans/Common/Female/Medium/NormalWeight/Tops/Shirt/f_med_nrw_top_shirt_nrm_Skeleton_AnimBlueprint.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Macros/macro_pilling_2_N.uasset",
+			"path": "MetaHumans/Common/Female/Medium/NormalWeight/Tops/Shirt/f_med_nrw_top_shirt_nrm_CtrlRig.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Sweater/top_sweater_AO.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_knit_front_AOHCA_M.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Macros/macro_heather_04_Vertical.uasset",
+			"path": "MetaHumans/Common/Female/Medium/NormalWeight/Tops/Shirt/f_med_nrw_top_shirt_nrm_PhysicsAsset.uasset",
 			"version": "1.0"
 		},
 		{
@@ -1613,79 +1641,35 @@
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Jeans_slm/M_btm_jeans_slm_custom.uasset",
+			"path": "MetaHumans/Common/Materials/Slacks/M_btm_slacks.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/M_jeans_nrm_custom_master.uasset",
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_knit_front_N.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_memory_fold_N.uasset",
+			"path": "MetaHumans/Common/Materials/Slacks/btm_slacks_N.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_weave_plain.uasset",
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_knit_front_H.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_roughness_mask.uasset",
+			"path": "MetaHumans/Common/Materials/Slacks/f_med_nrw_btm_slacks_nrm_custom_stitch.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_jeans_tile_N.uasset",
+			"path": "MetaHumans/Common/Materials/Slacks/btm_slacks_Mask.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_weave_plain_normal.uasset",
+			"path": "MetaHumans/Common/Materials/Slacks/btm_slacks_AO.uasset",
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_N.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_jeans_tile_M.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_AO.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_D.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_fuzz_M.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_Mask.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Jeans_slm/btm_jeans_slm_N.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Jeans_slm/btm_jeans_slm_AO_2.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Macros/macro_jeans_nrm_tile_overlay_D.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Jeans_slm/btm_jeans_slm_D.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Wrinkles/crease_a_tileable_N.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Jeans_slm/btm_jeans_slm_Mask_02.uasset",
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Macros/macro_heather_04_Vertical.uasset",
 			"version": "1.0"
 		},
 		{
@@ -1705,7 +1689,7 @@
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/M_fabric_simpler.uasset",
+			"path": "MetaHumans/Common/Materials/MI_Hair_Helmet.uasset",
 			"version": "1.0"
 		},
 		{
@@ -1729,7 +1713,39 @@
 			"version": "1.0"
 		},
 		{
-			"path": "MetaHumans/Common/Materials/MI_Hair_Helmet.uasset",
+			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_S_Updo_Cards/Hair_S_Updo_CardsAtlas_Coverage.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_S_Updo/Hair_S_Updo_Opacity.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_S_Updo/Hair_S_Updo_Tangent.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_S_Updo_Cards/Hair_S_Updo_CardsAtlas_Attribute.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_S_Updo/Hair_S_Updo_Depth.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_S_Updo_Cards/Hair_S_Updo_CardsAtlas_Depth.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_S_Updo_Cards/Hair_S_Updo_CardsAtlas_Tangent.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_S_Updo/Hair_S_Updo_Attribute.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_S_Updo/Hair_S_Updo_Material.uasset",
 			"version": "1.0"
 		},
 		{
@@ -1863,170 +1879,6 @@
 		{
 			"path": "MetaHumans/OfficeGirl/Previews/BP_OfficeGirl_PreviewMeshCollection.uasset",
 			"version": "0.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/GroomBinding/Hair_M_BobCurly_f_head_Archetype_Binding.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_M_BobCurly_CardsMesh_Group0_LOD0.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_M_BobCurly_CardsMesh_Group0_LOD1.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_M_BobCurly_CardsMesh_Group0_LOD2.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_M_BobCurly_CardsMesh_Group0_LOD3.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_M_BobCurly_CardsMesh_Group0_LOD4.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/Helmets/Hair_M_BobCurly_Helmet_LOD5.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/Helmets/Hair_M_BobCurly_Helmet_LOD6.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/Helmets/Hair_M_BobCurly_Helmet_LOD7.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Hair_M_BobCurly.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/GroomBinding/Eyelashes_L_ThickCurl_f_med_nrw_head_skmesh_lod0_Face_Archetype_Binding.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/FemaleHair/Hair/Eyelashes_L_ThickCurl.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/Materials/HairDefaultMaterial.uasset",
-			"version": "0.0"
-		},
-		{
-			"path": "MetaHumans/Common/FemaleHair/Textures/Eyelashes_L_ThickCurl_Cards/Eyelashes_L_ThickCurl_Coverage.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_M_BobCurly/Hair_M_BobCurly_Tangent.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_M_BobCurly/Hair_M_BobCurly_Opacity.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_M_BobCurly_Cards/Hair_M_BobCurly_CardsAtlas_Tangent.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_M_BobCurly_Cards/Hair_M_BobCurly_CardsAtlas_Depth.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_M_BobCurly_Cards/Hair_M_BobCurly_CardsAtlas_Coverage.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_M_BobCurly/Hair_M_BobCurly_Material.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_M_BobCurly/Hair_M_BobCurly_Attribute.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/FemaleHair/Textures/Hair_M_BobCurly_Cards/Hair_M_BobCurly_CardsAtlas_Attribute.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Female/Medium/NormalWeight/Tops/Shirt/f_med_nrw_top_shirt_nrm.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Female/Medium/NormalWeight/Bottoms/Slacks/f_med_nrw_btm_slacks_nrm.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/Materials/Shirt/Female/M_f_top_shirt.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/OfficeGirl/Materials/Slacks/M_btm_slacks.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Shirt/Female/M_f_top_shirt.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Shirt/Female/f_top_shirt_Mask.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Shirt/Female/f_top_shirt_N.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Shirt/Female/f_top_shirt_AO.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_pp_oxford_N.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Female/Medium/NormalWeight/Tops/Shirt/f_med_nrw_top_shirt_nrm_Skeleton.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Female/Medium/NormalWeight/Tops/Shirt/f_med_nrw_top_shirt_nrm_Skeleton_AnimBlueprint.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Female/Medium/NormalWeight/Tops/Shirt/f_med_nrw_top_shirt_nrm_CtrlRig.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Female/Medium/NormalWeight/Tops/Shirt/f_med_nrw_top_shirt_nrm_PhysicsAsset.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Slacks/M_btm_slacks.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Slacks/btm_slacks_N.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_knit_front_H.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Slacks/f_med_nrw_btm_slacks_nrm_custom_stitch.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Slacks/btm_slacks_Mask.uasset",
-			"version": "1.0"
-		},
-		{
-			"path": "MetaHumans/Common/Materials/Slacks/btm_slacks_AO.uasset",
-			"version": "1.0"
 		}
 	]
 }
